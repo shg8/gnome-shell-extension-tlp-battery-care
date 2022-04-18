@@ -1,0 +1,8 @@
+{
+  "name": "TLP Battery Care",
+  "description": "TLP Battery Care allows you to quickly configure charging threshoulds.",
+  "uuid": "tlpbatterycare@shg.life",
+  "shell-version": [
+    "42"
+  ]
+}
