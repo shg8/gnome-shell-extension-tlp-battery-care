@@ -18,7 +18,7 @@
 
 /* exported init */
 
-const GETTEXT_DOMAIN = 'my-indicator-extension';
+const GETTEXT_DOMAIN = 'tlp-battery-care-widget';
 
 const Lang = imports.lang;
 const Mainloop = imports.mainloop;
